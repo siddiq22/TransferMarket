@@ -41,3 +41,15 @@ transfers. The project also concludes with an intriguing investigation into the 
 financial investments in transfers and on-field success. By examining how money spent
 translates into competitive achievements, we offer a holistic perspective on the football transfer
 market's economic, strategic, and competitive dimensions.
+
+
+Data:
+The dataset for this project is sourced from the Transfermarkt website, a renowned platform that
+serves as a comprehensive repository for football-related data, including player transfers, market
+values, and club information. Transfermarkt has established itself as a reliable and widely-used
+resource in the football analytics community, providing enthusiasts and analysts with detailed
+insights into the dynamic world of player movements and financial transactions within the sport.
+The focus of this data exploration centers on the transfer data of football players within the top 5
+European leagues, namely the Premier League (England), La Liga (Spain), Bundesliga
+(Germany), Serie A (Italy), and Ligue 1 (France).
+For this Project, I have merged the data for all years together for simplicity.
