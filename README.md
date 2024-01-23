@@ -53,3 +53,4 @@ The focus of this data exploration centers on the transfer data of football play
 European leagues, namely the Premier League (England), La Liga (Spain), Bundesliga
 (Germany), Serie A (Italy), and Ligue 1 (France).
 For this Project, I have merged the data for all years together for simplicity.
+You can find the data for all years uptil 1942 here: https://www.transfermarkt.com/
