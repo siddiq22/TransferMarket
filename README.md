@@ -63,7 +63,7 @@ Visualized spending patterns by club and player movement over time.
 
 🔄 Interactive Dashboards: Transfer fee analysis by season, league, and position.
 
-###🚀 Technologies Used
+### 🚀 Technologies Used
 
 Python 🐍: Data preprocessing & analysis (Pandas, NumPy)
 
